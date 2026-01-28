@@ -78,15 +78,11 @@ Durante o desenvolvimento desta biblioteca, pratiquei conceitos essenciais de No
 
 ## 🛠️ Tecnologias utilizadas
 
-Node.js
-
-JavaScript (ES Modules)
-
-File System (fs)
-
-NPM
-
-Commander.js
+- Node.js
+- JavaScript (ES Modules)
+- File System (fs)
+- NPM
+- Commander.js
 
 ---
 
